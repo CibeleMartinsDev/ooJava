@@ -1,3 +1,8 @@
+
+<div style="width: '100%'; height: 'auto'; display: flex; justify-content: center; align-items: center;">
+    <img src="https://macmagazine.com.br/wp-content/uploads/2012/09/26-java-logo.jpg" width="1000" height="380"/> 
+</div>
+
 # Sobre
 Um projeto feito com o objetivo de revisar alguns conceitos básicos com Java.
 
